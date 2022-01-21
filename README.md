@@ -1,10 +1,10 @@
 # led-strip-controller
-h1.GOALS
+## GOALS
 * Figure out how to control LED strip from computer 
 * Figure out how to detect if software is running on computer
 * Figure out how to change LED strip color depending on software running state
 
-h1.Currently in research phase. 
+## Currently in research phase. 
 
 Documentation:
 * https://www.youtube.com/watch?v=1r_wxBg0VMM
