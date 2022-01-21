@@ -8,4 +8,7 @@ Documentation:
 * https://learn.adafruit.com/rgb-led-strips/circuitpython-code
 * https://www.reddit.com/r/Python/comments/7r268d/programmable_ledstrips/
 * https://dordnung.de/raspberrypi-ledstrip/
-* 
+
+
+There's an off the shelf company that builds this already:
+* https://www.blinkstick.com/products/blinkstick-flex#mini-shop
